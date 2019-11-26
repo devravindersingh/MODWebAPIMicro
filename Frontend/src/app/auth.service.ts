@@ -8,8 +8,8 @@ import {Subject} from 'rxjs';
 })
 export class AuthService {
   public isActive = new Subject<boolean>();
-  private _regiterUrl = "https://localhost:5001/api/account/register";
-  private _loginUrl = "https://localhost:5001/api/account/login";
+  private _regiterUrl = "https://localhost:44348/authservice/register";
+  private _loginUrl = "https://localhost:44348/authservice/login";
   constructor(private http: HttpClient, private _router: Router) {
     this.isActive.next(false);
    }

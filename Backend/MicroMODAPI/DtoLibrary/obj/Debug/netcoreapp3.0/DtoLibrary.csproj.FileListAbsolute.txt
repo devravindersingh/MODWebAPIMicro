@@ -1,0 +1,8 @@
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.deps.json
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\obj\Debug\netcoreapp3.0\DtoLibrary.csprojAssemblyReference.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\obj\Debug\netcoreapp3.0\DtoLibrary.AssemblyInfoInputs.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\obj\Debug\netcoreapp3.0\DtoLibrary.AssemblyInfo.cs
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\obj\Debug\netcoreapp3.0\DtoLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\DtoLibrary\obj\Debug\netcoreapp3.0\DtoLibrary.pdb

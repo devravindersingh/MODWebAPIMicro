@@ -6,14 +6,14 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AdminService {
 
-  private _countAll = "https://localhost:5001/api/admin/count";
-  private _getAllUsers = "https://localhost:5001/api/admin/Users";
-  private _getAllStudents = "https://localhost:5001/api/admin/students";
-  private _getAllMentors = "https://localhost:5001/api/admin/mentors";
-  private _getAllTechnolgies = "https://localhost:5001/api/admin/Technolgies";
-  private _addTechnolgies = "https://localhost:5001/api/admin/addTech";
-  private _deleteTechnolgies = "https://localhost:5001/api/admin/delTech";
-  private _toggleBlock = "https://localhost:5001/api/admin/toggleBlock/";
+  private _countAll = "https://localhost:44348/adminservice/count";
+  private _getAllUsers = "https://localhost:44348/adminservice/Users";
+  private _getAllStudents = "https://localhost:44348/adminservice/students";
+  private _getAllMentors = "https://localhost:44348/adminservice/mentors";
+  private _getAllTechnolgies = "https://localhost:44348/adminservice/Technolgies";
+  private _addTechnolgies = "https://localhost:44348/adminservice/addTech";
+  private _deleteTechnolgies = "https://localhost:44348/adminservice/delTech";
+  private _toggleBlock = "https://localhost:44348/adminservice/toggleBlock/";
   constructor(private http: HttpClient) { }
 
   getCountAll(){

@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ravindersingh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ravindersingh\\Documents\\Development\\MODWebAPIMicro\\Backend\\MicroMODAPI\\DtoLibrary\\DtoLibrary.csproj",
+      "projectUniqueName": "E:\\MODWebAPIMicro\\Backend\\MicroMODAPI\\DtoLibrary\\DtoLibrary.csproj",
       "projectName": "DtoLibrary",
-      "projectPath": "C:\\Users\\ravindersingh\\Documents\\Development\\MODWebAPIMicro\\Backend\\MicroMODAPI\\DtoLibrary\\DtoLibrary.csproj",
-      "packagesPath": "C:\\Users\\ravindersingh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ravindersingh\\Documents\\Development\\MODWebAPIMicro\\Backend\\MicroMODAPI\\DtoLibrary\\obj\\",
+      "projectPath": "E:\\MODWebAPIMicro\\Backend\\MicroMODAPI\\DtoLibrary\\DtoLibrary.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "E:\\MODWebAPIMicro\\Backend\\MicroMODAPI\\DtoLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ravindersingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

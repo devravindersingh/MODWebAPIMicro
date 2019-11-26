@@ -1,0 +1,11 @@
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\bin\Debug\netcoreapp3.0\AuthLibrary.deps.json
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\bin\Debug\netcoreapp3.0\AuthLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\obj\Debug\netcoreapp3.0\AuthLibrary.csprojAssemblyReference.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\obj\Debug\netcoreapp3.0\AuthLibrary.AssemblyInfoInputs.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\obj\Debug\netcoreapp3.0\AuthLibrary.AssemblyInfo.cs
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\bin\Debug\netcoreapp3.0\AuthLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\obj\Debug\netcoreapp3.0\AuthLibrary.csproj.CopyComplete
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\obj\Debug\netcoreapp3.0\AuthLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AuthLibrary\obj\Debug\netcoreapp3.0\AuthLibrary.pdb

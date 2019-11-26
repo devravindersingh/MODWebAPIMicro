@@ -6,9 +6,9 @@ import { HttpClient } from '@angular/common/http';
 })
 export class EventService {
 
-  private _getTechnology = "https://localhost:5001/api/Admin/Technolgies";
-  private _getGuestSearch = "https://localhost:5001/api/students/searchWP";
-  private _getAllSearch = "https://localhost:5001/api/students/search"
+  private _getTechnology = "https://localhost:44348/adminservice/Technolgies";
+  private _getGuestSearch = "https://localhost:44348/studentservice/searchWP";
+  private _getAllSearch = "https://localhost:44348/studentservice/search"
   constructor(private http: HttpClient) {
 
   }

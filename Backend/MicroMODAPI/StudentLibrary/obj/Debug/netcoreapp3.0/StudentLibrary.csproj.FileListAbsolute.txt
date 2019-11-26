@@ -1,0 +1,13 @@
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\StudentLibrary.deps.json
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\StudentLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\StudentLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\obj\Debug\netcoreapp3.0\StudentLibrary.csprojAssemblyReference.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\obj\Debug\netcoreapp3.0\StudentLibrary.AssemblyInfoInputs.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\obj\Debug\netcoreapp3.0\StudentLibrary.AssemblyInfo.cs
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\obj\Debug\netcoreapp3.0\StudentLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\obj\Debug\netcoreapp3.0\StudentLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\StudentLibrary\obj\Debug\netcoreapp3.0\StudentLibrary.csproj.CopyComplete

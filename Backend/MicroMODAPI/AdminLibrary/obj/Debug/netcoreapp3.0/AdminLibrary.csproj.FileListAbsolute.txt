@@ -1,0 +1,13 @@
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\AdminLibrary.deps.json
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\AdminLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\AdminLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\obj\Debug\netcoreapp3.0\AdminLibrary.csprojAssemblyReference.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\obj\Debug\netcoreapp3.0\AdminLibrary.AssemblyInfoInputs.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\obj\Debug\netcoreapp3.0\AdminLibrary.AssemblyInfo.cs
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\obj\Debug\netcoreapp3.0\AdminLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\obj\Debug\netcoreapp3.0\AdminLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\AdminLibrary\obj\Debug\netcoreapp3.0\AdminLibrary.csproj.CopyComplete

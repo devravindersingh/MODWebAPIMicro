@@ -8,8 +8,10 @@
                     <h4 class="card-title">{{item.mentorName}}</h4>
                     <h5 *ngIf="item.status == Request" class="card-title">Requested</h5>
                     <h5 *ngIf="item.status == Reject" class="card-title">Rejected</h5>
+                    <h5 *ngIf="item.status == Accept" class="card-title">Accepted</h5>
+                    <h5 *ngIf="item.status == PaymentDone" class="card-title">Enrolled</h5>
 
-                    <button *ngIf="item.status == Accept" class="btn btn-sm btn-primary">Payment</button>
+                    <button *ngIf="item.status == Accept" (click)="PaymentReq(item.reqId)" class="btn btn-sm btn-primary">Payment</button>
                     
                 </div>
             </div>

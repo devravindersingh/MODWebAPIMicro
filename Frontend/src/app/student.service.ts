@@ -6,11 +6,12 @@ import { HttpClient } from '@angular/common/http';
 })
 export class StudentService {
 
-  private _getStudent = "https://localhost:5001/api/students/";
-  private _getSearch = "https://localhost:5001/api/students/searchWP";
-  private _getAllSearch = "https://localhost:5001/api/students/search";
-  private _makeReq = "https://localhost:5001/api/students/PostRequest";
-  private _getAllReq = "https://localhost:5001/api/students/request/";
+  private _getStudent = "https://localhost:44348/studentservice/";
+  private _getSearch = "https://localhost:44348/studentservice/searchWP";
+  private _getAllSearch = "https://localhost:44348/studentservice/search";
+  private _makeReq = "https://localhost:44348/studentservice/PostRequest";
+  private _getAllReq = "https://localhost:44348/studentservice/request/";
+  private _upReq = "https://localhost:44348/studentservice/PutRequest";
 
   constructor(private http: HttpClient) { }
 
@@ -32,6 +33,10 @@ export class StudentService {
 
   getAllReq(id){
     return this.http.get<any>(this._getAllReq+id);
+  }
+
+  upReq(model){
+    return this.http.put<any>(this._upReq,model);
   }
 }
 

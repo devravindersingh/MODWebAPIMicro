@@ -1,0 +1,13 @@
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\MentorLibrary.deps.json
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\MentorLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\MentorLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.csprojAssemblyReference.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.AssemblyInfoInputs.cache
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.AssemblyInfo.cs
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.dll
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\DtoLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\bin\Debug\netcoreapp3.0\ModelLibrary.pdb
+E:\MODWebAPIMicro\Backend\MicroMODAPI\MentorLibrary\obj\Debug\netcoreapp3.0\MentorLibrary.csproj.CopyComplete

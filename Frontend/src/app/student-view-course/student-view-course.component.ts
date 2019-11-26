@@ -13,15 +13,33 @@ export class StudentViewCourseComponent implements OnInit {
   Request = "Request";
   Accept = "Accept";
   Reject = "Reject";
+  Payment = "Payment";
+  PaymentDone = "Payment Done"
+  requestObj: any = {};
   constructor( private student : StudentService, private route: Router ) { 
     console.log(localStorage.id);
+    this.getAllReqs();
+  }
+
+  ngOnInit() {
+  }
+
+  getAllReqs(){
     this.student.getAllReq(localStorage.id).subscribe(data=>{
       this.allReq = data as string;
       console.log(this.allReq);
     });
   }
 
-  ngOnInit() {
+  PaymentReq(id){
+    this.requestObj.id = id;
+    this.requestObj.status = this.PaymentDone;
+    this.student.upReq(this.requestObj).subscribe(data=>{
+      console.log("working");
+      
+
+    }),
+    err => this.getAllReqs();
   }
 
 }
