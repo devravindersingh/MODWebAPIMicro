@@ -1,0 +1,40 @@
+<div class="row mb-12" style="margin-top:80px;  display: flex; justify-content:space-between  ;flex-wrap: wrap;">
+      <div class="card text-white bg-success mb-6" style="width: 25vw; height: 50vh;" (click)="goStudent()">
+        <div class="card-header"></div>
+        <div class="card-body">
+          <h1 class="card-title">{{studentsCount}}</h1>
+          <p class="card-text">Total No. Of Students</p>
+        </div>
+      </div>
+      <div class="card text-white bg-danger mb-6" style="width: 25vw; height: 50vh;"(click)="goMentors()">
+        <div class="card-header"></div>
+        <div class="card-body">
+          <h1 class="card-title">{{mentorsCount}}</h1>
+          <p class="card-text">Total No. Of Mentors</p>
+        </div>
+      </div>
+      
+      <div class="card text-white bg-info mb-6" style="width: 25vw; height: 50vh;" (click)="goCourses()">
+        <div class="card-header"></div>
+        <div class="card-body">
+          <h1 class="card-title">{{coursesCount}}</h1>
+          <p class="card-text">Total No. Of Courses</p>
+        </div>
+      </div>
+      <div class="card text-white bg-success mb-6" style="width: 25vw; height: 50vh;" (click)="goTech()">
+          <div class="card-header"></div>
+          <div class="card-body">
+            <h1 class="card-title">{{techsCount}}</h1>
+            <p class="card-text">Total No. of Technologies</p>
+          </div>
+      </div>
+      <div class="card text-white bg-success mb-4" style="width: 25vw; height: 25vh; margin-top: 2%;" (click)="addTech()">
+          <div class="card-header"></div>
+          <div class="card-body">
+            <h2 style="font-size: 8vh;">Add</h2>
+            <p class="card-text">Technologies</p>
+          </div>
+      </div>
+      
+      
+</div>

@@ -1,0 +1,37 @@
+<div class="row" style="margin-top: 80px;">
+    <div class="col-md-6">
+        <div class="jumbotron" style=" height: 40vh;">
+                <h1 class="display-3">Hello, {{studentDetail.firstName}}</h1>
+                <h2 class="display-3">{{studentDetail.lastName}}</h2>
+                <p class="lead">Phone Number - {{studentDetail.phoneNumber}}</p>
+                <hr class="my-4">
+                <p>#Student</p>
+        </div>
+    </div>
+    <div class="col-md-6">
+            <div class="row mb-12" style=" display: flex; justify-content:space-between  ;flex-wrap: wrap;">
+                    <div class="card text-white bg-success mb-6" style="width: 25vw; height: 40vh; margin-right: 10px" (click)="goStudent()">
+                      <div class="card-header"></div>
+                      <div class="card-body">
+                        <h1 class="card-title">Courses</h1>
+                        <p class="card-text">Search For Courses</p>
+                      </div>
+                    </div>
+                    <div class="card text-white bg-danger mb-6" style="width: 25vw; height: 40vh; "(click)="goMentors()">
+                      <div class="card-header"></div>
+                      <div class="card-body">
+                        <h1 class="card-title">Profile</h1>
+                        <p class="card-text">Update Your Profile</p>
+                      </div>
+                    </div>
+                    <div class="card text-white bg-warning mb-6" style="width: 25vw; height: 40vh; margin-top: 20px" (click)="goReq()">
+                      <div class="card-header"></div>
+                      <div class="card-body">
+                        <h1 class="card-title">My Courses</h1>
+                        <p class="card-text">My Enrolled Courses</p>
+                      </div>
+                    </div>
+                    
+              </div>
+    </div>
+</div>

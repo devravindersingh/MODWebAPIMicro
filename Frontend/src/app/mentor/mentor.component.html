@@ -1,0 +1,50 @@
+<div class="row" style="margin-top: 80px;">
+        <div class="col-md-6">
+            <div class="jumbotron" style=" height: 50vh;">
+                    <h1 class="display-3">Hello, {{mentorDetail.firstName}} </h1>
+                    <h2 class="display-3">{{mentorDetail.lastName}}</h2>
+                    <p class="lead">Skills - {{mentorDetail.skill}}</p>
+                    <p class="lead">Experience - {{mentorDetail.experience}} Years</p>
+                    <p class="lead">Email - {{mentorDetail.userName}}</p>
+                    <hr class="my-4">
+                    <p>#Mentor</p>
+            </div>
+            <div class="card text-white bg-success mb-2" style="width: 20vw;">
+                <h4 class="display-5" style="padding-left: 2%; padding-top: 2%;" (click)="goNotif()">{{reqCount}} Request</h4>
+              </div>
+        </div>
+        <div class="col-md-6">
+                <div class="row mb-12" style=" display: flex; justify-content:space-between  ;flex-wrap: wrap;">
+                        <div class="card text-white bg-success mb-6" style="width: 25vw; height: 40vh; margin-right: 10px" (click)="goAddCourse()">
+                          <div class="card-header"></div>
+                          <div class="card-body">
+                            <h1 class="card-title">Add Courses</h1>
+                            <p class="card-text">Add a Course</p>
+                          </div>
+                        </div>
+                        <div class="card text-white bg-danger mb-6" style="width: 25vw; height: 40vh; "(click)="goProfileUpdate()">
+                          <div class="card-header"></div>
+                          <div class="card-body">
+                            <h1 class="card-title">Profile</h1>
+                            <p class="card-text">Update Your Profile</p>
+                          </div>
+                        </div>
+                        <div class="card text-white bg-warning mb-6" style="width: 25vw; height: 40vh; margin-top: 20px" (click)="goCourses()">
+                          <div class="card-header"></div>
+                          <div class="card-body">
+                            <h1 class="card-title">My Courses</h1>
+                            <p class="card-text">All My Courses</p>
+                          </div>
+                        </div>
+                        <div class="card text-white bg-success mb-6" style="width: 25vw; height: 40vh; margin-top: 20px" >
+                                <div class="card-header"></div>
+                                <div class="card-body">
+                                  <h1 class="card-title">1000*</h1>
+                                  <p class="card-text">No Of Students</p>
+                                </div>
+                              </div>
+                        
+                  </div>
+        </div>
+    </div>
+    

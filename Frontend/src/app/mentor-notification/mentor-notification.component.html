@@ -1,0 +1,14 @@
+<div class="row " style="padding: 8%;">
+        <div class="col-md-4" *ngFor="let item of mentorReq">
+            <div class="card text-white bg-danger" style="max-width: 50rem; margin-top: 8%; height: 20rem;">
+                <div class="card-header"></div>
+                <div class="card-body">
+                    <h2 class="card-title">{{item.courseName}}</h2>
+                    <h4 class="card-title">{{item.studentName}}</h4>
+                    <h4 class="card-title">{{item.status}}</h4>
+                    <button *ngIf="item.status == Request" class="btn btn-sm btn-primary" (click)="acceptReq(item.reqId)">Accept</button>
+                    <button *ngIf="item.status == Request" class="btn btn-sm btn-danger" (click)="rejectReq(item.reqId)">Reject</button>  
+                </div>  
+            </div>
+        </div>
+    </div>

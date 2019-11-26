@@ -1,0 +1,45 @@
+<div class="container" style="margin-top: 80px;">
+        <div style="display: flex; justify-content: space-around; width: 100%; align-items: center;">
+            <div class="dropdown">
+                <button class="btn btn-outline-primary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{technology}}
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" *ngFor="let data of technologyData"
+                        (click)="changeTechnology(data.name,data.id)">{{data.name}}</a>
+                </div>
+            </div>
+            <div class="dropdown" [ngClass]="{pointertoggle: showpointerclass}">
+                <button class="btn btn-outline-primary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    {{duration}}
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" *ngFor="let data of durationData"
+                        (click)="changeDuration(data + ' weeks',data)">{{data}} weeks</a>
+                </div>
+            </div>
+            <div [ngClass]="{pointertoggle: showpointerclass}">
+                <Button type="button" type="submit" (click)="studentSearch()" class="btn btn-outline-primary btn-lg"><a
+                        class="no-style">Search</a></Button>
+            </div>
+        </div>
+    </div>
+    
+    <hr>
+
+    <div class="row " style="padding: 8%;">
+        <div class="col-md-4" *ngFor="let item of courseArray">
+            <div class="card text-white bg-danger" style="max-width: 50rem; margin-top: 8%; height: 30rem;">
+                <div class="card-header">#{{item.csTechnology}}</div>
+                <div class="card-body">
+                    <h2 class="card-title">{{item.csName}}</h2>
+                    <h4 class="card-title">{{item.csDuration}} Weeks</h4>
+                    <h4 class="card-title">{{item.csFees}}</h4>
+                    <p class="card-text">{{item.msName}}</p>
+                    <button class="btn btn-sm btn-primary" (click)="makeRequest(item.cId, item.mId)">Enroll</button>
+                </div>
+            </div>
+        </div>
+    </div>

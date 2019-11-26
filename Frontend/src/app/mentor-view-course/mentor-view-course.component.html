@@ -1,0 +1,15 @@
+<div style="margin-top: 60px;">
+        <div class="row " style="padding: 8%;">
+                <div class="col-md-4" *ngFor="let item of allMyCourse">
+                    <div class="card text-white bg-danger" style="max-width: 50rem; margin-top: 8%; height: 30rem;">
+                        <div class="card-header">#MentorView</div>
+                        <div class="card-body">
+                            <h2 class="card-title">{{item.cName}}</h2>
+                            <h4 class="card-title">{{item.cDuration}} Weeks</h4>
+                            <h4 class="card-title">{{item.cFees}}</h4>
+                            <p class="card-text">{{item.cTiming}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>

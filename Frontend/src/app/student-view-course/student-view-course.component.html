@@ -1,0 +1,18 @@
+<div style="margin-top: 60px;">
+    <div class="row " style="padding: 8%;">
+        <div class="col-md-4" *ngFor="let item of allReq">
+            <div class="card text-white bg-danger" style="max-width: 50rem; margin-top: 8%; height: 20rem;">
+                <div class="card-header"></div>
+                <div class="card-body">
+                    <h2 class="card-title">{{item.courseName}}</h2>
+                    <h4 class="card-title">{{item.mentorName}}</h4>
+                    <h5 *ngIf="item.status == Request" class="card-title">Requested</h5>
+                    <h5 *ngIf="item.status == Reject" class="card-title">Rejected</h5>
+
+                    <button *ngIf="item.status == Accept" class="btn btn-sm btn-primary">Payment</button>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

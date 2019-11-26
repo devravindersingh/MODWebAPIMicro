@@ -1,0 +1,14 @@
+<div style="margin-top: 280px; margin-left: 10vw;width: 30vw; padding: 2%;" class="card bg-light" >
+        <form #techForm="ngForm" (ngSubmit)="addTechn(techForm)">
+            <fieldset>
+                                  
+                  <div class="form-group">
+                    <label for="courseName">Technology Name</label>
+                    <input ngModel name="Name" type="text" class="form-control" id="Name" placeholder="Enter Technology Name">
+                    <small id="CName" style="font-size: 19px;" class="form-text text-muted"></small>
+                  </div>
+                  <button type="submit" class="btn btn-primary">Submit</button>
+                  <hr>
+            </fieldset>
+        </form>   
+</div>

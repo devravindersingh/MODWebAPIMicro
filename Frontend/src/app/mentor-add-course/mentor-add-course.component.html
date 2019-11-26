@@ -1,0 +1,47 @@
+<div style="margin-top: 120px; margin-left: 20vw;width: 60vw; padding: 2%;" class="card bg-light" >
+        <form #courseForm="ngForm" (ngSubmit)="registerCourse(courseForm)">
+            <fieldset>
+                  <legend>Add Course Details</legend>                  
+                  <div class="form-group">
+                    <label for="courseName">Course Name</label>
+                    <input ngModel name="CName" type="text" class="form-control" id="CName" placeholder="Enter Course Name">
+                    <small id="CName" style="font-size: 19px;" class="form-text text-muted">Name that describes your Course Well</small>
+                  </div>
+                  <label for="technology">Choose Technology</label>
+                  <div class="dropdown">
+                        <button class="btn btn-outline-primary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{technology}}
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" *ngFor="let data of technologyData" (click) = "changeTechnology(data.name,data.id)">{{data.name}}</a>
+                        </div>
+                    </div>
+                    <hr>
+                    <label for="duration">Choose Duration in Weeeks (Max 7 Weeks)</label>
+                    <div class="dropdown">
+                        <button class="btn btn-outline-primary btn-lg dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{duration}}
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" >
+                            <a class="dropdown-item" *ngFor="let data of durationData"  (click) = "changeDuration(data + ' weeks',data)">{{data}} weeks</a>
+                        </div>
+                    </div>
+                    <hr>
+                                
+                    <div class="form-group">
+                        <label for="timing">Timing of the Course - 6 Hrs time is Mandatory - No Course Start After 15:00 PM IST</label>
+                        <input ngModel name="CTiming" type="text" class="form-control" id="CTiming" placeholder="Choose Time">
+                        <small id="CTiming" style="font-size: 19px;" class="form-text text-muted">Choose Only Starting Time.</small>
+                    </div>
+
+                    <div class="form-group">
+                            <label for="courseFees">Course Fees</label>
+                            <input ngModel name="CFees" type="text" class="form-control" id="CFees" placeholder="Enter Course Fees">
+                            <small id="CFees" style="font-size: 19px;" class="form-text text-muted"></small>
+                        </div>
+
+                  <button type="submit" class="btn btn-primary">Submit</button>
+                  <hr>
+            </fieldset>
+        </form>   
+</div>
