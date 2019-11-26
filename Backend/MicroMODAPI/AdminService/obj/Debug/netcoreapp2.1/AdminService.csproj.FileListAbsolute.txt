@@ -1,0 +1,16 @@
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\AdminService.deps.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\AdminService.runtimeconfig.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\AdminService.runtimeconfig.dev.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\AdminService.dll
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.RazorAssemblyInfo.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.RazorAssemblyInfo.cs
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.AssemblyInfoInputs.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.AssemblyInfo.cs
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.RazorTargetAssemblyInfo.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\bin\Debug\netcoreapp2.1\AdminService.pdb
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.csprojAssemblyReference.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.dll
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AdminService\obj\Debug\netcoreapp2.1\AdminService.pdb

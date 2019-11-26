@@ -1,0 +1,16 @@
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\AuthService.deps.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\AuthService.runtimeconfig.dev.json
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\AuthService.dll
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.csprojAssemblyReference.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorAssemblyInfo.cs
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfoInputs.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.AssemblyInfo.cs
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.RazorTargetAssemblyInfo.cache
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\bin\Debug\netcoreapp2.1\AuthService.pdb
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.dll
+C:\Users\ravindersingh\Documents\Development\MODWebAPIMicro\Backend\MicroMODAPI\AuthService\obj\Debug\netcoreapp2.1\AuthService.pdb
